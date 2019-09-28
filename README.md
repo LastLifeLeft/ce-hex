@@ -1,2 +1,2 @@
-# ce-hex
+# CE Hex
 Hexadecimals

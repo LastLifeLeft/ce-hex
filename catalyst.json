@@ -1,0 +1,10 @@
+{
+    "name": "kraifpatrik/ce-hex",
+    "description": "Hexadecimals",
+    "license": "MIT",
+    "homepage": "https://github.com/kraifpatrik/ce-hex",
+    "yyp": "ce-hex.yyp",
+    "require": {
+        "kraifpatrik/ce-macro": "*"
+    }
+}
