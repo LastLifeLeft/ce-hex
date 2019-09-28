@@ -5,7 +5,7 @@
 
 # Example
 ```gml
-ce_byte_array_to_hex([64, 0, 128, 255]); // => "40080FF"
+ce_byte_array_to_hex([64, 0, 128, 255]); // => "400080FF"
 ```
 
 # Installation
