@@ -3,4 +3,4 @@
 /// @param {real} nibble The number to convert.
 /// @return {string} The hexadecimal representation.
 gml_pragma("forceinline");
-return global.__ceNibbleToHexArray[argument0];
+return global.__ce_nibble_to_hex_array[argument0];

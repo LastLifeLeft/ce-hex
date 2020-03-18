@@ -6,4 +6,4 @@ gml_pragma("global", "ce_to_hex_init_global();");
 
 CE_PRAGMA_ONCE;
 
-global.__ceNibbleToHexArray = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E", "F"];
+global.__ce_nibble_to_hex_array = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E", "F"];
